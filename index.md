@@ -1,3 +1,7 @@
+## My Credentials
+
+I am an inexperienced programmer with almost no particular skill in the field to speak of. The only language I am somewhat versed in is Java, in addition to a little bit of experience with Swift. I am only making this page as it is required to continue working in a voluntary course I am a part of. Please ignore the default GitHub Pages description, I am leaving that there for now.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JungleWampa/junglewampa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
